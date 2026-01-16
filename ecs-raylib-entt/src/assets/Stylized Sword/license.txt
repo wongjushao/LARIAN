@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Sword – Game Ready 3D Model (GLB)
+* source:	https://sketchfab.com/3d-models/stylized-sword-game-ready-3d-model-glb-cc340743063d465983a41e2c27b89fa3
+* author:	akkzabrat (https://sketchfab.com/akkzabrat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Sword – Game Ready 3D Model (GLB)" (https://sketchfab.com/3d-models/stylized-sword-game-ready-3d-model-glb-cc340743063d465983a41e2c27b89fa3) by akkzabrat (https://sketchfab.com/akkzabrat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
